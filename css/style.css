@@ -594,6 +594,15 @@ footer .credit a {
   padding: 1rem 1.6rem;
 }
 
+.developer-credit {
+  text-align: right;
+  padding: 5px 10px;
+  font-size: 6px;
+  color: #fff;
+  background-color: #000; /* Background color to ensure readability */
+  margin-top: 20px;
+}
+
 /* Media Queries */
 /* Laptop */
 @media (max-width: 1366px) {
